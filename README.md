@@ -112,7 +112,7 @@ Deployed URL : https://library-managmentsystem.netlify.app
 
 Please play around the provided URL, let me know if there is something if i miss it, happy to integrate it. 
 
-Backend part : Written the code for the generation of token
+Backend part : Written the code for the generation of token and api are written. That is piece of code not integrated with frontend
 
 
 
