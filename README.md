@@ -101,7 +101,8 @@ Users can borrow only one copy of a book at a time.
 
 Borrowing limits are enforced at the user level.
 
-No overdue penalties or due dates are implemented in this version.
+
+
 
 
 Deployed URL : https://library-managmentsystem.netlify.app
@@ -109,6 +110,8 @@ Deployed URL : https://library-managmentsystem.netlify.app
 Please play around the provided URL, let me know if there is something if i miss it, happy to integrate it. 
 
 Backend part : Written the code for the generation of token
+
+
 
 <img width="597" alt="Screenshot 2025-01-26 at 10 28 45 PM" src="https://github.com/user-attachments/assets/fef5bc06-aa0c-4455-94a5-5b57fbc05d4f" />
 
