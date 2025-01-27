@@ -1,6 +1,12 @@
 
 Library Management System 
 
+Deployed URL : https://library-managmentsystem.netlify.app
+App.js is the code which is deployed for this
+
+Please play around the provided URL, let me know if there is something if i miss it, happy to integrate it. 
+
+Backend part : Written the code for the generation of token and api are written. That is piece of code not integrated with frontend.
 Overview
 
 This is a RESTful API for managing a library system, where users can borrow and return books, and administrators can manage the library inventory. The application is built using Spring Boot and integrates with a DynamoDB database.
@@ -107,12 +113,6 @@ Borrowing limits are enforced at the user level.
 
 
 
-
-Deployed URL : https://library-managmentsystem.netlify.app
-
-Please play around the provided URL, let me know if there is something if i miss it, happy to integrate it. 
-
-Backend part : Written the code for the generation of token and api are written. That is piece of code not integrated with frontend
 
 
 
