@@ -5,7 +5,7 @@ Overview
 
 This is a RESTful API for managing a library system, where users can borrow and return books, and administrators can manage the library inventory. The application is built using Spring Boot and integrates with a DynamoDB database.
 
- Why DynaoDB choosen?
+ Why DynamoDB choosen?
   Well, It costs only $3 - $5 cost per month where as MySql costs $750/month. Here we can consider the cost-cutting as well
 
 Features
