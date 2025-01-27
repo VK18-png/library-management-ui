@@ -125,7 +125,7 @@ Frontend (React.js):
 UI: Displays book lists, admin panels.
 Components: Borrow Book, Return Book, Add Book.
 
-Backend (Node.js):
+Backend (Java):
 APIs:
 /books (GET): Fetch all books.
 /borrow (POST): Borrow a book.
